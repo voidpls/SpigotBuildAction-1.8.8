@@ -1,3 +1,5 @@
+# Builds latest Spigot 1.8.8 - Download from latest action in Actions tab
+
 # SpigotBuildAction
 Spigot Build Action is a simple GitHub Action project, for the server owners who cannot build Spigot on their own computer. You can download the spigot.jar in every build action.
 
